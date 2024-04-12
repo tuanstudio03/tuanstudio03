@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="[https://gpvc.arturio.dev/Sumanth-Talluri](https://media3.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif" />
+    <img align="center" alt="visitors" src="https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp" />
 </p>
 
 <p align="center">
